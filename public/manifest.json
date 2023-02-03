@@ -1,0 +1,29 @@
+{
+  "background_color": "FFFFFF",
+  "categories": [ "education", "music"],
+  "description": "Esta es una PWA de prueba.",
+  "dir": "ltr",
+  "display_override": ["fullscreen", "minimal-ui"],
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/pwa-react/public/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa-react/public/logo512.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "id":"/v1/",
+  "Lang": "es-MX",
+  "Name": "PWA ED Test",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "scope": "/",
+  "short_name":"PWA ED",
+  "start_url":"/",
+  "theme_color":"purple"
+}
